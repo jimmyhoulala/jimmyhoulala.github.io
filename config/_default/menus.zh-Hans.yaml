@@ -1,22 +1,22 @@
 main:
-  - name: 主页
-    url: /
+  - name: Bio
+    url: https://jimmyhoulala.github.io/homepage/en/
     weight: 10
-  - name: 论文
-    url: /#papers
+  - name: Papers
+    url: https://jimmyhoulala.github.io/homepage/en/#papers
     weight: 11
-  - name: 论坛
-    url: /#talks
+  - name: Talks
+    url: https://jimmyhoulala.github.io/homepage/en/#talks
     weight: 12
-  - name: 新闻
-    url: /#news
+  - name: News
+    url: https://jimmyhoulala.github.io/homepage/en/#news
     weight: 13
-  - name: 经历
+  - name: Experience
     url: experience/
     weight: 20
-  - name: 项目
+  - name: Projects
     url: projects/
     weight: 30
-  - name: 教学
+  - name: Teaching
     url: teaching/
     weight: 40
