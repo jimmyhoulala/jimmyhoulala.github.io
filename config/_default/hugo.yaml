@@ -24,7 +24,7 @@ languages:
     languageName: English
     weight: 1
   zh-Hans:
-    contentDir: content/zh-Hans
+    contentDir: content/zh
     disabled: false
     languageCode: zh-Hans
     languageDirection: ltr
