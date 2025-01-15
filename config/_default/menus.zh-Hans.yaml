@@ -1,15 +1,15 @@
 main:
   - name: Bio
-    url: https://jimmyhoulala.github.io/homepage/en/
+    url: https://jimmyhoulala.github.io/homepage/
     weight: 10
   - name: Papers
-    url: https://jimmyhoulala.github.io/homepage/en/#papers
+    url: https://jimmyhoulala.github.io/homepage/#papers
     weight: 11
   - name: Talks
-    url: https://jimmyhoulala.github.io/homepage/en/#talks
+    url: https://jimmyhoulala.github.io/homepage/#talks
     weight: 12
   - name: News
-    url: https://jimmyhoulala.github.io/homepage/en/#news
+    url: https://jimmyhoulala.github.io/homepage/#news
     weight: 13
   - name: Experience
     url: experience/
