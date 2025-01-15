@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate
+role: Computer Science Undergraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/jimmy-hou-98a479344
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: brands/wechat
-    url: https://scholar.google.com/
+  - icon: brands/weixin
+    url: https://jimmyhoulala.github.io/homepage/uploads/wechat.jpg
 
 interests:
   - Artificial Intelligence
