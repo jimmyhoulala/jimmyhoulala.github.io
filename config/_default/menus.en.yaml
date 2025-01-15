@@ -5,7 +5,7 @@
 
 main:
   - name: Bio
-    url: /
+    url: https://jimmyhoulala.github.io/homepage/
     weight: 10
   - name: Papers
     url: https://jimmyhoulala.github.io/homepage/#papers
