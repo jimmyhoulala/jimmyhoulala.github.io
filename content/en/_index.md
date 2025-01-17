@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: resume-experience
       content:
         username: admin
@@ -39,7 +38,6 @@ sections:
         date_format: 'January 2006'
         # Education or Experience section first?
         is_education_first: True
-
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -54,7 +52,6 @@ sections:
     content:
       title: Languages
       username: admin
-
   - block: markdown
     content:
       title: '📚 My Research'
@@ -67,8 +64,6 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-
-
   - block: collection
     id: papers
     content:
@@ -80,8 +75,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-
   - block: collection
     content:
       title: Recent Publications
