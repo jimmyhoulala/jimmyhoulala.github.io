@@ -47,42 +47,32 @@ profiles:
     url: https://jimmyhoulala.github.io/homepage/uploads/wechat.jpg
 
 interests:
+  - Statistical Modelling
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science Undergraduate
+    institution: Tongji University
+    date_start: 2022-07-01
+    date_end: 2026-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      At Tongji University, I am pursuing a Bachelor's degree in Computer Science and Technology. My coursework includes Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating
+      Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Scholarship Certification'
+      url: 'https://jimmyhoulala.github.io/homepage/uploads/scholarship.pdf'
+  
+  - area: High School
+    institution: Shanghai Yan'An High School
+    date_start: 2019-07-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.8/4.0
+      At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
+    button:
+      text: 'Project Report'
+      url: 'https://jimmyhoulala.github.io/homepage/uploads/Project_Report.pdf'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +173,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I have strong expertise in full-stack development, data analysis, and financial technology, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!
