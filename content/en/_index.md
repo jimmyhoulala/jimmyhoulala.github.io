@@ -30,28 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: True
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   - block: markdown
     content:
       title: '📚 My Research'
@@ -64,6 +42,31 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  - block: resume-experience
+  - id: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: True
+  - block: resume-skills
+  - id: s_h
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+  - id: awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   - block: collection
     id: papers
     content:
