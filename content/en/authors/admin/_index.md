@@ -149,7 +149,6 @@ awards:
     certificate_url: 'https://jimmyhoulala.github.io/uploads/hundsun_certificate.pdf'
     date: '2024-08-24'
     awarder: Hundsun Technologies Inc.
-    icon: "custom/guitar-solid"
     summary: |
       - Led a team of 6 members as product manager to design and develop a simplified financial trading system.
       - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes, as well as full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management.
@@ -159,7 +158,6 @@ awards:
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
-    icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -170,7 +168,6 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
     awarder: datacamp
-    icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
