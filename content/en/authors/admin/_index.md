@@ -125,11 +125,11 @@ skills:
       - name: Music
         description: 'I'm Music band lead singer'
         percent: 80
-        icon: microphone
+        icon: 
       - name: A cappella
         description: 'Tenor'
         percent: 80
-        icon: notes
+        icon: 
 
 languages:
   - name: English
