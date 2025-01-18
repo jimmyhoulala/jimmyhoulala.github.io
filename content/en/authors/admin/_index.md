@@ -82,7 +82,7 @@ work:
     date_end: 2024-08-31
     summary: |2-
       Responsibilities include:
-      - Led a team of 6 members as product manager to design and develop a simplified financial trading system
+      - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
       - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
       - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
 
@@ -152,7 +152,7 @@ awards:
     summary: |
       - Certified Junior FinTech Engineer, Hundsun Technologies Inc. (Awarded for outstanding performance in financial technology project development).
       - Recognized with the ”Best Quality Award” for leading the development of the fund trading system.
-  - title: 35th Shanghai Youth Science and Technology Innovation Competition
+  - title: 'First Prize: 35th Shanghai Youth Science and Technology Innovation Competition'
     url: https://ssayt.shssp.org/
     certificate_url: 'https://jimmyhoulala.github.io/uploads/shssp.jpg'
     date: '2020-04-01'
@@ -160,12 +160,11 @@ awards:
     summary: |
       - Conducted field research in Anji County, Huzhou, collecting water quality data (e.g., temperature, dissolved oxygen, pH) from 7 locations along the upstream of Huangpu River.
       - Performed data analysis using statistical regression models to predict and assess water quality trends, providing actionable insights for environmental conservation.
-  - title: '2021 National High School Biology Olympiad'
+  - title: 'Third Prize: 2021 National High School Biology Olympiad'
     url: http://czs.ioz.cas.cn/
     certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
     date: '2021-09-01'
     awarder: China Zoological Society
-    summary: |
 ---
 
 ## About Me
