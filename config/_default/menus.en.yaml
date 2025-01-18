@@ -15,5 +15,5 @@ main:
     url: /#awards
     weight: 20
   - name: Projects
-    url: projects/
+    url: /#projects
     weight: 30

@@ -41,7 +41,7 @@ sections:
       is_education_first: True
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Interests'
       subtitle: ''
       text: |-
         I'm now a student at Tongji University. I am interested in Machine Learning, Deep Learning and Data Science.
@@ -72,6 +72,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      text: Here are the projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: resume-skills
     id: s_h
     content:
