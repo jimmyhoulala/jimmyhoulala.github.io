@@ -1,5 +1,5 @@
 ---
-title: A Conceptual Fund Trading System
+title: Conceptual Fund Trading System
 date: 2024-08-28
 external_link: https://github.com/jimmyhoulala/Simple_Fund_Trading_System
 tags:
