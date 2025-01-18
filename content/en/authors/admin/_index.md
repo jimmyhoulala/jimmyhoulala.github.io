@@ -119,11 +119,11 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Basketball Referee
-        description: ''
+        description: 'Certified National Level-3 Basketball Referee'
         percent: 70
-        icon: person-simple-walk
+        icon: basketball
       - name: Music
-        description: ''
+        description: 'Music band lead singer'
         percent: 80
         icon: cat
       - name: A cappella
