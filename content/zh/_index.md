@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: '下载简历'
-        url: https://jimmyhoulala.github.io/uploads/resume.pdf
+        url: https://jimmyhoulala.github.io/uploads/resume_chinese.pdf
     design:
       css_class: dark
       background:

@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://jimmyhoulala.github.io/uploads/resume.pdf
+        url: https://jimmyhoulala.github.io/uploads/resume_english.pdf
     design:
       css_class: dark
       background:
