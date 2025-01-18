@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 同济大学计算机科学与技术本科
+role: 计算机科学与技术专业本科
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,156 +31,142 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:2254296@tongji.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/JimmyHou0509
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jimmyhoulala
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jimmyhoulala
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jimmy-hou-98a479344
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: brands/weixin
+    url: https://jimmyhoulala.github.io/uploads/wechat.jpg
 
 interests:
+  - Statistical Modelling
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science Undergraduate
+    institution: Tongji University Shanghai, China
+    date_start: 2022-07-01
+    date_end: 2026-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      At Tongji University, I am pursuing a Bachelor's degree in Computer Science and Technology. My coursework includes Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating
+      Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Scholarship Certification'
+      url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
+  
+  - area: High School
+    institution: Shanghai Yan'An High School
+    date_start: 2019-07-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.8/4.0
+      At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
+    button:
+      text: 'Project Report'
+      url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: FinTech Intern
+    company_name: Hundsun Technologies Inc.
+    company_url: 'https://www.hundsun.com'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
+    date_start: 2024-07-01
+    date_end: 2024-08-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
+      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
+      - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
+
+  - position: Full-Stack WeChat Mini Program Developer
+    company_name: Tongji University
+    company_url: 'www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2024-08-01
+    date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
+      - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
+      - Improved convenience for school badminton players and enhanced their overall experience
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++/Python/JavaScript
         description: ''
         percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Basketball Referee
+        description: 'Certified National Level-3 Basketball Referee'
+        percent: 70
+        icon: "custom/basketball-solid"
+      - name: Music
+        description: 'Music band lead singer'
         percent: 80
-        icon: camera
+        icon: "custom/guitar-solid"
+      - name: A cappella
+        description: 'Tenor'
+        percent: 80
+        icon: "custom/music-solid"
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Hundsun FinTech
+    url: https://www.hundsun.com/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/hundsun_certificate.pdf'
+    date: '2024-08-24'
+    awarder: Hundsun Technologies Inc.
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Certified Junior FinTech Engineer, Hundsun Technologies Inc. (Awarded for outstanding performance in financial technology project development).
+      - Recognized with the ”Best Quality Award” for leading the development of the fund trading system.
+  - title: 'First Prize: 35th Shanghai Youth Science and Technology Innovation Competition'
+    url: https://ssayt.shssp.org/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/shssp.jpg'
+    date: '2020-04-01'
+    awarder: Shanghai Science Association for Young Talent
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Conducted field research in Anji County, Huzhou, collecting water quality data (e.g., temperature, dissolved oxygen, pH) from 7 locations along the upstream of Huangpu River.
+      - Performed data analysis using statistical regression models to predict and assess water quality trends, providing actionable insights for environmental conservation.
+  - title: 'Third Prize: 2021 National High School Biology Olympiad'
+    url: http://czs.ioz.cas.cn/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
+    date: '2021-09-01'
+    awarder: China Zoological Society
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I have strong expertise in full-stack development, data analysis, and financial technology, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!
