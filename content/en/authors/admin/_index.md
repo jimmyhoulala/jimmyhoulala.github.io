@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: brands/weixin
-    url: uploads/wechat.jpg
+    url: https://jimmyhoulala.github.io/uploads/wechat.jpg
 
 interests:
   - Statistical Modelling
@@ -61,7 +61,7 @@ education:
       Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
     button:
       text: 'Scholarship Certification'
-      url: 'uploads/scholarship.pdf'
+      url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
   
   - area: High School
     institution: Shanghai Yan'An High School
@@ -71,7 +71,7 @@ education:
       At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
     button:
       text: 'Project Report'
-      url: 'uploads/Project_Report.pdf'
+      url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
 work:
   - position: Director of Cloud Infrastructure
