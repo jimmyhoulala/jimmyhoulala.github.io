@@ -1,5 +1,5 @@
 ---
-title: A Statistical Regression Model for Water Quality
+title: Modeling Water Quatlity using Regression
 date: 2020-04-01
 external_link: https://jimmyhoulala.github.io/uploads/Project_Report.pdf
 tags:

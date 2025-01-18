@@ -150,26 +150,22 @@ awards:
     date: '2024-08-24'
     awarder: Hundsun Technologies Inc.
     summary: |
-      - Led a team of 6 members as product manager to design and develop a simplified financial trading system.
-      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes, as well as full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management.
       - Certified Junior FinTech Engineer, Hundsun Technologies Inc. (Awarded for outstanding performance in financial technology project development).
       - Recognized with the ”Best Quality Award” for leading the development of the fund trading system.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: 35th Shanghai Youth Science and Technology Innovation Competition
+    url: https://ssayt.shssp.org/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/shssp.jpg'
+    date: '2020-04-01'
+    awarder: Shanghai Science Association for Young Talent
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      - Conducted field research in Anji County, Huzhou, collecting water quality data (e.g., temperature, dissolved oxygen, pH) from 7 locations along the upstream of Huangpu River.
+      - Performed data analysis using statistical regression models to predict and assess water quality trends, providing actionable insights for environmental conservation.
+  - title: '2021 National High School Biology Olympiad'
+    url: http://czs.ioz.cas.cn/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
+    date: '2021-09-01'
+    awarder: China Zoological Society
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
