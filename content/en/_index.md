@@ -44,34 +44,34 @@ sections:
       title: '📚 My Interests'
       subtitle: ''
       text: |-
-        I'm now a student at Tongji University. I am interested in Machine Learning, Deep Learning and Data Science.
+        I am currently a student at Tongji University, with a keen interest in Machine Learning, Deep Learning, and Data Science.
 
-        I am willing to apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the field of Economy, Medicine, Engineering etc.
-        
-        Please reach out to collaborate 😃
+        I am eager to apply both qualitative and quantitative methods to explore the impact of science and technology across various fields, including Economics, Medicine, and Engineering.
+
+        Feel free to contact me! 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: collection
     id: projects
     content:
