@@ -64,7 +64,7 @@ sections:
     id: projects
     content:
       title: Projects
-      text: Here are the projects that I have worked on over the years.
+      text: Here are some projects that I have worked on over the years.
       filters:
         folders:
           - project
