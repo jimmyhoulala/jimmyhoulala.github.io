@@ -125,11 +125,11 @@ skills:
       - name: Music
         description: 'Music band lead singer'
         percent: 80
-        icon: cat
+        icon: "custom/guitar-solid"
       - name: A cappella
         description: 'Tenor'
         percent: 80
-        icon: camera
+        icon: "custom/music-solid"
 
 languages:
   - name: English
