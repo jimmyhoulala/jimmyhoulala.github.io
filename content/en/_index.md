@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: resume-experience
-  - id: experience
+    id: experience
     content:
       username: admin
     design:
@@ -73,14 +73,14 @@ sections:
     design:
       view: citation
   - block: resume-skills
-  - id: s_h
+    id: s_h
     content:
       title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
-  - id: awards
+    id: awards
     content:
       title: Awards
       username: admin
