@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Computer Science Undergraduate
-    institution: Tongji University
+    institution: Tongji University Shanghai, China
     date_start: 2022-07-01
     date_end: 2026-08-01
     summary: |

@@ -39,30 +39,14 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: True
-  - block: resume-skills
-  - id: s_h
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-  - id: awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm now a student at Tongji University. I am interested in Machine Learning, Deep Learning and Data Science.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am willing to apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the field of Economy, Medicine, Engineering etc.
         
         Please reach out to collaborate 😃
     design:
@@ -88,4 +72,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-skills
+  - id: s_h
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+  - id: awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
