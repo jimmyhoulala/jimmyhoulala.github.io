@@ -74,28 +74,30 @@ education:
       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: FinTech Intern
+    company_name: Hundsun Technologies Inc.
+    company_url: 'https://www.hundsun.com'
+    company_logo: 'uploads/hunson.png'
+    date_start: 2024-07-01
+    date_end: 2024-08-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Led a team of 6 members as product manager to design and develop a simplified financial trading system
+      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
+      - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
+
+  - position: Full-Stack WeChat Mini Program Developer
+    company_name: Tongji University
+    company_url: 'www.tongji.edu.cn'
+    company_logo: 'uploads/tongji.jpg'
+    date_start: 2024-08-01
+    date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
+      - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
+      - Improved convenience for school badminton players and enhanced their overall experience
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
