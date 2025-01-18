@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: '下载简历'
         url: https://jimmyhoulala.github.io/uploads/resume.pdf
     design:
       css_class: dark
@@ -63,8 +63,8 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
-      text: Here are some projects that I have worked on over the years.
+      title: '项目经历'
+      text: ''
       filters:
         folders:
           - project
@@ -75,17 +75,17 @@ sections:
   - block: resume-skills
     id: s_h
     content:
-      title: Skills & Hobbies
+      title: 技能 & 业余爱好
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     id: awards
     content:
-      title: Awards
+      title: 获奖经历
       username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: 语言水平
       username: admin
 ---
