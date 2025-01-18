@@ -1,5 +1,5 @@
 ---
-title: Conceptual Fund Trading System
+title: 简易基金理财销售系统
 date: 2024-08-28
 external_link: https://github.com/jimmyhoulala/Simple_Fund_Trading_System
 tags:
