@@ -149,7 +149,7 @@ awards:
     certificate_url: 'https://jimmyhoulala.github.io/uploads/hundsun_certificate.pdf'
     date: '2023-11-25'
     awarder: Hundsun Technologies Inc.
-    icon: "custom/mini-hundsun.svg
+    icon: "custom/mini-hundsun.svg"
     summary: |
       - Led a team of 6 members as product manager to design and develop a simplified financial trading system.
       - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes, as well as full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management.
