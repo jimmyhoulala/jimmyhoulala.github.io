@@ -77,7 +77,7 @@ work:
   - position: FinTech Intern
     company_name: Hundsun Technologies Inc.
     company_url: 'https://www.hundsun.com'
-    company_logo: 'uploads/hunson.png'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
     date_start: 2024-07-01
     date_end: 2024-08-31
     summary: |2-
@@ -89,7 +89,7 @@ work:
   - position: Full-Stack WeChat Mini Program Developer
     company_name: Tongji University
     company_url: 'www.tongji.edu.cn'
-    company_logo: 'uploads/tongji.jpg'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
     date_start: 2024-08-01
     date_end: 2024-12-31
     summary: |
