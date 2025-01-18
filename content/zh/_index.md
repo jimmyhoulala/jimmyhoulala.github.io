@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: resume-experience
-    title: '项目经历'
+    title: '教育 & 实习经历'
     id: experience
     content:
       username: admin

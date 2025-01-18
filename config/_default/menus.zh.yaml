@@ -1,14 +1,14 @@
 main:
-  - name: 主页
+  - name: "主页"
     url: /
     weight: 10
-  - name: Education & Experience
+  - name: "教育 & 实习经历"
     url: /#experience
-  - name: Skills & Hobbies
+  - name: "技能 & 业余爱好"
     url: /#s_h
-  - name: Awards
+  - name: "获奖经历"
     url: /#awards
     weight: 20
-  - name: Projects
+  - name: "项目经历"
     url: /#projects
     weight: 30
