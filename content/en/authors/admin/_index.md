@@ -121,15 +121,12 @@ skills:
       - name: Basketball Referee
         description: 'I'm Certified National Level-3 Basketball Referee'
         percent: 70
-        icon: 
       - name: Music
         description: 'I'm Music band lead singer'
         percent: 80
-        icon: 
       - name: A cappella
         description: 'Tenor'
         percent: 80
-        icon: 
 
 languages:
   - name: English
