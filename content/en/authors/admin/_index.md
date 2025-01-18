@@ -144,13 +144,17 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Hundsun FinTech
+    url: https://www.hundsun.com/
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/hundsun_certificate.pdf'
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: Hundsun Technologies Inc.
+    icon: "custom/mini-hundsun.svg
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      - Led a team of 6 members as product manager to design and develop a simplified financial trading system.
+      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes, as well as full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management.
+      - Certified Junior FinTech Engineer, Hundsun Technologies Inc. (Awarded for outstanding performance in financial technology project development).
+      - Recognized with the ”Best Quality Award” for leading the development of the fund trading system.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
