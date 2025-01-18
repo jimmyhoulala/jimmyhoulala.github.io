@@ -39,18 +39,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: True
-  - block: markdown
-    content:
-      title: '📚 My Interests'
-      subtitle: ''
-      text: |-
-        I am currently a student at Tongji University, with a keen interest in Machine Learning, Deep Learning, and Data Science.
-
-        I am eager to apply both qualitative and quantitative methods to explore the impact of science and technology across various fields, including Economics, Medicine, and Engineering.
-
-        Feel free to contact me! 😃
-    design:
-      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
