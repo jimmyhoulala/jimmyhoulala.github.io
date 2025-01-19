@@ -54,8 +54,8 @@ interests:
 education:
   - area: Computer Science Undergraduate
     institution: Tongji University Shanghai, China
-    date_start: 2022-07-01
-    date_end: 2026-08-01
+    date_start: 2022-09-01
+    date_end: 2026-07-01
     summary: |
       At Tongji University, I am pursuing a Bachelor's degree in Computer Science and Technology. My coursework includes Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating
       Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
@@ -65,7 +65,7 @@ education:
   
   - area: High School
     institution: Shanghai Yan'An High School
-    date_start: 2019-07-01
+    date_start: 2019-09-01
     date_end: 2022-07-01
     summary: |
       At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
@@ -165,6 +165,11 @@ awards:
     certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
     date: '2021-09-01'
     awarder: China Zoological Society
+  - title: 'Silver Award: 2024 China International College Students Innovation Competition (Tongji University Internal Competition)'
+    url: ''
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/tjcx.png'
+    date: '2024-06-01'
+    awarder: Tongji University
 ---
 
 ## About Me

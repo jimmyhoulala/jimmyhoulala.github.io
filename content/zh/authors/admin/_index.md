@@ -54,7 +54,7 @@ education:
   - area: 计算机科学与技术本科
     institution: 同济大学
     date_start: 2022-07-01
-    date_end: 2026-08-01
+    date_end: 2026-09-01
     summary: |
       我在同济大学攻读计算机科学与技术学士学位。我的主修课程包括软件工程、人工智能、数据结构、算法、面向对象编程、操作系统等。我不仅学术和技术能力上表现优异，而且在担任2022级计算机科学与技术二班班长的过程中，也锻炼和提升了我的领导能力。
     button:
@@ -64,7 +64,7 @@ education:
   - area: 高中
     institution: 上海市延安中学
     date_start: 2019-07-01
-    date_end: 2022-07-01
+    date_end: 2022-09-01
     summary: |
       在上海市延安中学，我在学术与课业成绩上表现优异，并积极参与课外活动。我是学校篮球队的一员，同时担任环保社团的主席，领导了一项水质考察项目，获得了上海青少年科技创新大赛一等奖。此外，我高中三年担任班长，组织了各种丰富多彩的班级活动，得到了老师和同学们的一致认可。这些经历让我在学术、体育和社区参与方面实现了全面发展，为未来的努力奠定了坚实的基础。
     button:
@@ -158,6 +158,11 @@ awards:
     certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
     date: '2021-09-01'
     awarder: 中国动物学会
+  - title: '2024同济大学校内中国国际“互联网+”大学生创新创业大赛银奖'
+    url: ''
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/tjcx.png'
+    date: '2024-06-01'
+    awarder: 同济大学
 ---
 ## 关于我
 
