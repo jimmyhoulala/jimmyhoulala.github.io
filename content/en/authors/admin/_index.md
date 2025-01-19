@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:2254296@tongji.edu.cn'
+    url: 'mailto:hqsh200459@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/JimmyHou0509

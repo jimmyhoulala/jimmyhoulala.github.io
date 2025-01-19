@@ -30,7 +30,7 @@ organizations:
 # 社交网络链接
 profiles:
   - icon: at-symbol
-    url: 'mailto:2254296@tongji.edu.cn'
+    url: 'mailto:hqsh200459@gmail.com'
     label: 电子邮件
   - icon: brands/x
     url: https://twitter.com/JimmyHou0509
