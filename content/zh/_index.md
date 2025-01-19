@@ -72,7 +72,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 4
+      columns: 2
   - block: resume-skills
     id: s_h
     content:
