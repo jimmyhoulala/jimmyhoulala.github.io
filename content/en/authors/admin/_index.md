@@ -3,7 +3,7 @@
 title: 侯青山
 
 # Name pronunciation (optional)
-name_pronunciation: Hou Qing Shan
+name_pronunciation: QingShan Hou
 
 # Full name (for SEO)
 first_name: Qing Shan
