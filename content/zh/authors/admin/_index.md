@@ -39,7 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jimmyhoulala
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jimmy-hou-98a479344
+    url: https://www.linkedin.com/in/jimmy-hou-625658303
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: brands/weixin
