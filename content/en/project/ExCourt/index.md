@@ -1,7 +1,7 @@
 ---
 title: ExCourt
 date: 2024-12-01
-external_link: https://github.com/jimmyhoulala/ExCourt
+external_link: https://github.com/ShanghaineseImpact/ExCourt
 tags:
   - Wechat MiniProgram
   - Full-stack Development
