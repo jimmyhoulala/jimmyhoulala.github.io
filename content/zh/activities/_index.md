@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 活动
 cms_exclude: true
 
 # View.
