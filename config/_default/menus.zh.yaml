@@ -2,6 +2,8 @@ main:
   - name: "主页"
     url: /
     weight: 10
+  - name: "活动"
+    url: /#activities
   - name: "教育 & 实习经历"
     url: /#experience
   - name: "技能 & 业余爱好"
