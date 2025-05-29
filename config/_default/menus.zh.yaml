@@ -2,7 +2,7 @@ main:
   - name: "主页"
     url: /
     weight: 10
-  - name: "活动"
+  - name: "近期活动"
     url: /#activities
   - name: "教育 & 实习经历"
     url: /#experience

@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: activities
     content:
-      title: 活动
+      title: '近期活动'
       filters:
         folders:
           - activities

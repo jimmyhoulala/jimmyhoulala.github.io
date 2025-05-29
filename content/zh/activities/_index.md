@@ -1,5 +1,5 @@
 ---
-title: 活动
+title: 近期活动
 cms_exclude: true
 
 # View.
