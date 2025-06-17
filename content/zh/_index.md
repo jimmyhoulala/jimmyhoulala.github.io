@@ -30,25 +30,30 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: blank
-    id: carousel
-    content:
-      title: "近期活动预览"
-      body: |
-        {{< carousel >}}
-
-
   - block: collection
     id: activities
     content:
       title: '近期活动'
+      text: '{{< carousel >}}'
       filters:
         folders:
           - activities
-        featured_only: true
+      featured_only: true
     design:
       view: article-grid
       columns: 2
+
+  # - block: collection
+  #   id: activities
+  #   content:
+  #     title: '近期活动'
+  #     filters:
+  #       folders:
+  #         - activities
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: resume-experience
     title: '教育 & 实习经历'
     id: experience
