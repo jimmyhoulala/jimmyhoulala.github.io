@@ -35,7 +35,10 @@ sections:
     content:
       title: '近期活动'
       text: '{{< carousel >}}'
-      
+      filters:
+        folders: activities
+      featured_only: true
+
   - block: resume-experience
     title: '教育 & 实习经历'
     id: experience
