@@ -60,6 +60,14 @@ education:
     button:
       text: '奖学金证明'
       url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
+
+  - area: 计算机科学交换生
+    institution: 新加坡国立大学
+    date_start: 2025-08-04
+    date_end: 2025-12-15
+    summary: |
+      在2025-2026秋季学期前往新加坡国立大学交换学习。
+  
   
   - area: 高中
     institution: 上海市延安中学
@@ -72,6 +80,28 @@ education:
       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
 work:
+  - position: 研究助理：具身智能多智能体时空协同
+    company_name: 同济大学
+    company_url: 'https://www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2025-02-01
+    date_end: 2025-12-31
+    summary: |
+      - 研究多智能体在具身智能场景中的时空协同问题，聚焦于协同感知、任务规划与动作同步
+      - 探索在部分可观测环境中实现鲁棒协作的通信与策略学习与感知预测机制
+      - 项目目标为提升具身智能体在不同场景（如自动驾驶）下的泛化能力。
+
+  - position: GFlowNet流网络多目标优化与博弈论策略建模
+    company_name: 同济大学
+    company_url: 'https://www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2025-02-01
+    date_end: 2025-12-31
+    summary: |
+      - 针对原始GFlowNet模型进行多目标优化扩展，新增目标包括奖励、成本与多样性
+      - 构建全新目标函数，引入进化博弈理论建模不同目标之间的权衡与策略演化过程
+      - 完成实验代码修改与验证，结果显示在样本成本与奖励表现方面均优于原模型
+
   - position: 金融科技实习生
     company_name: 恒生电子股份有限公司
     company_url: 'https://www.hundsun.com'
@@ -166,4 +196,4 @@ awards:
 ---
 ## 关于我
 
-欢迎来到我的个人网站！我是侯青山，同济大学计算机科学与技术专业本科生。我在全栈开发、数据分析和金融科技领域拥有扎实的专业技能，并通过实际项目和获奖经历加以巩固。作为一个充满热情的领导者，我曾带领不同项目团队取得成功。在学术之外，我是校篮球协会主席，持有国家三级篮球裁判证书，热爱音乐，是一支乐队的主唱并参与阿卡贝拉人声乐团。让我们一起探索科技世界吧！
+欢迎来到我的个人网站！我是侯青山，同济大学计算机科学与技术专业本科生。我在人工智能、数据分析和金融科技领域拥有较为扎实的专业技能，并且我还有丰富的实际项目、科研和获奖经历。作为一个充满热情的领导者，我曾带领不同项目团队取得成功。在学术之外，我是校篮球协会主席，持有国家三级篮球裁判证书，热爱音乐，是一支乐队的主唱并参与阿卡贝拉人声乐团。让我们一起探索科技世界吧！
