@@ -37,7 +37,6 @@ sections:
       text: '{{< carousel >}}'
       filters:
         folders:
-          - activities
       featured_only: true
     design:
       view: article-grid

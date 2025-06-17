@@ -2,55 +2,77 @@
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
 <style>
-  .carousel-caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
+  .swiper {
     width: 100%;
-    padding: 1rem;
-    color: white;
-    background: rgba(0, 0, 0, 0.5);
-    text-align: center;
-    font-size: 1.2rem;
+    max-width: 1000px;
+    margin: 0 auto;
   }
 
   .carousel-slide-wrapper {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: auto;
+  }
+
+  .carousel-img {
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-out;
+  }
+
+  .carousel-img:hover {
+    transform: scale(1.02);
+  }
+
+  .carousel-caption {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 0.6rem 1rem;
+    border-radius: 12px;
+    font-size: 1.2rem;
+    text-align: center;
+    max-width: 90%;
+    backdrop-filter: blur(4px);
+  }
+
+  @media (max-width: 768px) {
+    .carousel-caption {
+      font-size: 1rem;
+      padding: 0.4rem 0.8rem;
+    }
   }
 </style>
 
-<div class="swiper" style="width: 100%; height: 400px">
+<div class="swiper">
   <div class="swiper-wrapper">
-    <!-- 每一张图 + 文字 -->
     <div class="swiper-slide">
       <div class="carousel-slide-wrapper">
-        <img
-          src="/uploads/event1.jpg"
-          style="width: 100%; height: 100%; object-fit: cover"
-        />
-        <div class="carousel-caption">学术沙龙 · 多模态学习新趋势</div>
+        <img src="/uploads/event1.jpg" class="carousel-img" />
+        <div class="carousel-caption">同济大学计算机学院2024年迎新晚会</div>
       </div>
     </div>
 
     <div class="swiper-slide">
       <div class="carousel-slide-wrapper">
-        <img
-          src="/uploads/event2.jpg"
-          style="width: 100%; height: 100%; object-fit: cover"
-        />
-        <div class="carousel-caption">海外访学交流计划宣讲会</div>
+        <img src="/uploads/event2.jpg" class="carousel-img" />
+        <div class="carousel-caption">
+          梅赛德斯-奔驰2025上海国际车展青年人才日
+        </div>
       </div>
     </div>
 
     <div class="swiper-slide">
       <div class="carousel-slide-wrapper">
-        <img
-          src="/uploads/event3.jpg"
-          style="width: 100%; height: 100%; object-fit: cover"
-        />
-        <div class="carousel-caption">生成式AI辩论展示 · Demo Day</div>
+        <img src="/uploads/event3.jpg" class="carousel-img" />
+        <div class="carousel-caption">地球一小时阿卡贝拉表演</div>
       </div>
     </div>
   </div>
@@ -66,6 +88,7 @@
     loop: true,
     autoplay: {
       delay: 3000,
+      disableOnInteraction: false,
     },
     pagination: {
       el: ".swiper-pagination",
