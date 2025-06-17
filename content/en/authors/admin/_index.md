@@ -81,7 +81,7 @@ education:
       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
 work:
-  - position: Multi-AgentSpatio-temporalCoordination Research Assitant
+  - position: Multi-Agent Spatio-temporal Coordination Research Assitant
     company_name: Tongji University
     company_url: 'https://www.tongji.edu.cn'
     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
