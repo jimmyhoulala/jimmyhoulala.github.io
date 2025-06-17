@@ -37,7 +37,6 @@ sections:
       text: '{{< carousel >}}'
       filters:
         folders: activities
-      featured_only: true
 
   - block: resume-experience
     title: '教育 & 实习经历'
