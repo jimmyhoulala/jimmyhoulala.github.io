@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: collection
+    id: activities
+    content:
+      title: Recent Activities
+      text: '{{< carousel-en >}}'
+      filters:
+        folders: 
+          - activities
   - block: resume-experience
     id: experience
     content:
@@ -39,14 +47,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: True
-  - block: collection
-    id: activities
-    content:
-      title: Recent Activities
-      text: '{{< carousel-en >}}'
-      filters:
-        folders: 
-          - activities
+
   - block: collection
     id: projects
     content:
