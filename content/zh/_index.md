@@ -30,12 +30,13 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: custom
+  - block: blank
     id: carousel
     content:
-      title: '活动预览'
-    design:
-      css_class: ""
+      title: "近期活动预览"
+      body: |
+        {{< carousel >}}
+
 
   - block: collection
     id: activities
