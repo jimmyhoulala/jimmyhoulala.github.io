@@ -1,0 +1,102 @@
+<!-- Swiper 样式 -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+<style>
+  .swiper {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .carousel-slide-wrapper {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .carousel-img {
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-out;
+  }
+
+  .carousel-img:hover {
+    transform: scale(1.02);
+  }
+
+  .carousel-caption {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 0.6rem 1rem;
+    border-radius: 12px;
+    font-size: 1.2rem;
+    text-align: center;
+    max-width: 90%;
+    backdrop-filter: blur(4px);
+  }
+
+  @media (max-width: 768px) {
+    .carousel-caption {
+      font-size: 1rem;
+      padding: 0.4rem 0.8rem;
+    }
+  }
+</style>
+
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <div class="carousel-slide-wrapper">
+        <img src="/uploads/event1.jpg" class="carousel-img" />
+        <div class="carousel-caption">
+          Welcome Party 2024 of the School of Computer Science, Tongji
+          University
+        </div>
+      </div>
+    </div>
+
+    <div class="swiper-slide">
+      <div class="carousel-slide-wrapper">
+        <img src="/uploads/event2.jpg" class="carousel-img" />
+        <div class="carousel-caption">
+          Mercedes-Benz 2025 Shanghai International Auto Show Youth Talent Day
+        </div>
+      </div>
+    </div>
+
+    <div class="swiper-slide">
+      <div class="carousel-slide-wrapper">
+        <img src="/uploads/event3.jpg" class="carousel-img" />
+        <div class="carousel-caption">
+          Performing a cappella at the Earth Hour event
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 分页点 -->
+  <div class="swiper-pagination"></div>
+</div>
+
+<!-- Swiper 脚本 -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+  new Swiper(".swiper", {
+    loop: true,
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+    },
+  });
+</script>

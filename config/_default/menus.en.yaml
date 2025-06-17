@@ -7,6 +7,8 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Recent Activities
+    url: /#activities
   - name: Education & Experience
     url: /#experience
   - name: Skills & Hobbies

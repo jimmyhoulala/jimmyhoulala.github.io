@@ -62,6 +62,13 @@ education:
     button:
       text: 'Scholarship Certification'
       url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
+
+  - area: Dept of Computer Science Exchange Student
+    institution: National University of Singapore, Singapore
+    date_start: 2025-08-04
+    date_end: 2025-12-15
+    summary: |
+      To participate in an exchange program at the National University of Singapore during the Fall semester of 2025–2026.
   
   - area: High School
     institution: Shanghai Yan'An High School
@@ -74,6 +81,27 @@ education:
       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
 work:
+  - position: ResearchAssitant: Multi-AgentSpatio-temporalCoordination
+    company_name: Tongji University
+    company_url: 'https://www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2025-02-01
+    date_end: 2025-12-31
+    summary: |
+      - Conducting research on multi-agent spatiotemporal coordination problems in the context of embodied intelligence, focusing on collaborative perception, task planning, and motion synchronization
+      -  Exploring strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction
+      - The project also aims to enhance the generalization capability of embodied agents across diverse domestic scenarios(such as autonomous driving)
+
+  - position: Multi-Objective Optimization of GFlowNet with Game-Theoretic Strategies
+    company_name: Tongji University
+    company_url: 'https://www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2025-02-01
+    date_end: 2025-12-31
+    summary: |
+      - Conducting research on extending the original GFlowNet framework from single-objective to multi-objective optimization, integrating objectives such as reward, cost, and diversity
+      - Designed a new objective formulation incorporating additional evaluation metrics, and applied evolutionary game theory concepts to model the trade-offs and dynamic policy updates
+      - Implemented and validated the extended model on molecular datasets, demonstrating improved sample cost and reward performance over the original baseline
   - position: FinTech Intern
     company_name: Hundsun Technologies Inc.
     company_url: 'https://www.hundsun.com'
@@ -174,4 +202,4 @@ awards:
 
 ## About Me
 
-Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I have strong expertise in full-stack development, data analysis, and financial technology, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!
+Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I have strong expertise in artificial intelligence, data analysis, and financial technology, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!
