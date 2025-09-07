@@ -67,6 +67,10 @@ education:
     date_end: 2025-12-15
     summary: |
       在2025-2026秋季学期前往新加坡国立大学交换学习。
+      在新加坡国立大学Blue Whale Lab从事分子生成相关研究。
+    button:
+      text: '实验室主页介绍'
+      url: 'https://bluewhale.yataobian.com/'
   
   - area: 高中
     institution: 上海市延安中学

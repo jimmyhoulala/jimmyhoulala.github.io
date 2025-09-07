@@ -69,6 +69,10 @@ education:
     date_end: 2025-12-15
     summary: |
       To participate in an exchange program at the National University of Singapore during the Fall semester of 2025–2026.
+      Doing research on AI4Sci in NUS Blue Whale Lab.
+    button:
+      text: 'Lab Homepage'
+      url: 'https://bluewhale.yataobian.com/'
   
   - area: High School
     institution: Shanghai Yan'An High School
