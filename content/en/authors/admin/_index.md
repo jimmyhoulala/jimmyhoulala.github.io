@@ -11,7 +11,7 @@ last_name: Hou
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📖
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,20 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hqsh200459@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/JimmyHou0509
   - icon: brands/instagram
     url: https://www.instagram.com/jimmyhoulala
   - icon: brands/github
     url: https://github.com/jimmyhoulala
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jimmy-hou-625658303
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: brands/weixin
     url: https://jimmyhoulala.github.io/uploads/wechat.jpg
 
 interests:
+  - Software Engineering
   - Statistical Modelling
   - Artificial Intelligence
   - Data Science
@@ -69,7 +66,7 @@ education:
     date_end: 2025-12-15
     summary: |
       To participate in an exchange program at the National University of Singapore during the Fall semester of 2025–2026.
-      Doing research on AI4Sci in NUS Blue Whale Lab.
+      Doing some coursework such as Software Testing CS4218 and research on AI4Sci in NUS Blue Whale Lab.
     button:
       text: 'Lab Homepage'
       url: 'https://bluewhale.yataobian.com/'
@@ -95,8 +92,11 @@ work:
       - Conducting research on multi-agent spatiotemporal coordination problems in the context of embodied intelligence, focusing on collaborative perception, task planning, and motion synchronization
       -  Exploring strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction
       - The project also aims to enhance the generalization capability of embodied agents across diverse domestic scenarios(such as autonomous driving)
+    button:
+      text: 'Competition Certificate'
+      url: 'https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf'
 
-  - position: Multi-Objective Optimization of GFlowNet with Game-Theoretic Strategies
+  - position: Multi-Objective Optimization of GFlowNet
     company_name: Tongji University
     company_url: 'https://www.tongji.edu.cn'
     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
