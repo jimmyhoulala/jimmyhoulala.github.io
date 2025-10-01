@@ -105,8 +105,21 @@ work:
       - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
       - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
       - Improved convenience for school badminton players and enhanced their overall experience
-
-
+  
+  - position: Participant, "Large Model + X Summer Camp"
+    company_name: Heywhale Technology Co., Ltd.
+    company_url: 'https://www.heywhale.com'
+    date_start: 2025-08-01
+    date_end: 2025-08-31
+    summary: |
+      Responsibilities and achievements include:
+      - Successfully completed the **"Large Model + X Summer Camp"**, focusing on Artificial Intelligence and Large-Scale Model Development  
+      - Studied large-model fine-tuning techniques (e.g., LoRA, knowledge distillation) and explored applications in AI model scalability and optimization  
+      - Conducted hands-on experiments with distributed training, model compression, and retrieval-augmented generation (RAG) systems  
+      - Earned an official certificate for demonstrating competence in advanced large-scale AI development practices  
+    button:
+      text: 'View Certificate'
+      url: 'https://jimmyhoulala.github.io/uploads/hejing.pdf'
 
 
 # Skills
@@ -122,7 +135,7 @@ skills:
         description: ''
         percent: 70
         icon: chart-bar
-      - name: SQL
+      - name: Software Engineering
         description: ''
         percent: 50
         icon: circle-stack
@@ -162,6 +175,19 @@ awards:
     summary: |
       - Certified Junior FinTech Engineer, Hundsun Technologies Inc. (Awarded for outstanding performance in financial technology project development).
       - Recognized with the ”Best Quality Award” for leading the development of the fund trading system.
+
+  - title: 'Silver Award: 2024 China International College Students Innovation Competition (Tongji University Internal Competition)'
+    url: ''
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/tjcx.png'
+    date: '2024-06-01'
+    awarder: Tongji University
+
+  - title: 'Excellence Award: 2025 Corpus & Data Intelligence Creative Competition (Embodied Intelligence Track)'
+    url: ''
+    certificate_url: 'https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf'
+    date: '2025-07-01'
+    awarder: Organizing Committee of the Corpus & Data Intelligence Creative Competition
+
   - title: 'First Prize: 35th Shanghai Youth Science and Technology Innovation Competition'
     url: https://ssayt.shssp.org/
     certificate_url: 'https://jimmyhoulala.github.io/uploads/shssp.jpg'
@@ -170,18 +196,14 @@ awards:
     summary: |
       - Conducted field research in Anji County, Huzhou, collecting water quality data (e.g., temperature, dissolved oxygen, pH) from 7 locations along the upstream of Huangpu River.
       - Performed data analysis using statistical regression models to predict and assess water quality trends, providing actionable insights for environmental conservation.
+
   - title: 'Third Prize: 2021 National High School Biology Olympiad'
     url: http://czs.ioz.cas.cn/
     certificate_url: 'https://jimmyhoulala.github.io/uploads/biology.jpg'
     date: '2021-09-01'
     awarder: China Zoological Society
-  - title: 'Silver Award: 2024 China International College Students Innovation Competition (Tongji University Internal Competition)'
-    url: ''
-    certificate_url: 'https://jimmyhoulala.github.io/uploads/tjcx.png'
-    date: '2024-06-01'
-    awarder: Tongji University
 ---
 
 ## About Me
 
-Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I have strong expertise in artificial intelligence, data analysis, and financial technology, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!
+Welcome to my personal website! I’m Qingshan Hou, a Computer Science and Technology undergraduate at Tongji University. I am currently exchanging at National University Of Singapore. I have a solid foundation in computer science basics and strong expertise in artificial intelligence, data analysis, and software engineering, supported by hands-on experience and award-winning projects. As a passionate leader, I’ve led diverse teams to success. Outside of academics, I’m the President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let’s connect and explore the tech world together!

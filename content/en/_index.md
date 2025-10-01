@@ -52,13 +52,11 @@ sections:
       is_education_first: True
 
   - block: markdown
+    id: research
     content:
       title: "Research Experience"
-      subtitle: "More details below"
       text: |
-        ## Research Experience
-
-        ### Multi-Objective Optimization of GFlowNet  
+        # Multi-Objective Optimization of GFlowNet  
         **Tongji University**  
         *Feb 2025 – Dec 2025*  
         - Extended the original GFlowNet framework from single-objective to multi-objective optimization, integrating reward, cost, and diversity objectives  
@@ -67,7 +65,7 @@ sections:
 
         ---
 
-        ### Multi-Agent Spatio-temporal Coordination (Research Assistant)  
+        # Multi-Agent Spatio-temporal Coordination (Research Assistant)  
         **Tongji University**  
         *Feb 2025 – Dec 2025*  
         - Conducted research on multi-agent spatiotemporal coordination in embodied intelligence, with focus on collaborative perception, task planning, and motion synchronization  
