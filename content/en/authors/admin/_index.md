@@ -81,54 +81,56 @@ education:
       text: 'Project Report'
       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
-# work:
-#   - position: Multi-Agent Spatio-temporal Coordination Research Assitant
-#     company_name: Tongji University
-#     company_url: 'https://www.tongji.edu.cn'
-#     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
-#     date_start: 2025-02-01
-#     date_end: 2025-12-31
-#     summary: |
-#       - Conducting research on multi-agent spatiotemporal coordination problems in the context of embodied intelligence, focusing on collaborative perception, task planning, and motion synchronization
-#       -  Exploring strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction
-#       - The project also aims to enhance the generalization capability of embodied agents across diverse domestic scenarios(such as autonomous driving)
-#     button:
-#       text: 'Competition Certificate'
-#       url: 'https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf'
+work:
+  - position: FinTech Intern
+    company_name: Hundsun Technologies Inc.
+    company_url: 'https://www.hundsun.com'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
+    date_start: 2024-07-01
+    date_end: 2024-08-31
+    summary: |2-
+      Responsibilities include:
+      - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
+      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
+      - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
 
-#   - position: Multi-Objective Optimization of GFlowNet
-#     company_name: Tongji University
-#     company_url: 'https://www.tongji.edu.cn'
-#     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
-#     date_start: 2025-02-01
-#     date_end: 2025-12-31
-#     summary: |
-#       - Conducting research on extending the original GFlowNet framework from single-objective to multi-objective optimization, integrating objectives such as reward, cost, and diversity
-#       - Designed a new objective formulation incorporating additional evaluation metrics, and applied evolutionary game theory concepts to model the trade-offs and dynamic policy updates
-#       - Implemented and validated the extended model on molecular datasets, demonstrating improved sample cost and reward performance over the original baseline
-#   - position: FinTech Intern
-#     company_name: Hundsun Technologies Inc.
-#     company_url: 'https://www.hundsun.com'
-#     company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
-#     date_start: 2024-07-01
-#     date_end: 2024-08-31
-#     summary: |2-
-#       Responsibilities include:
-#       - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
-#       - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
-#       - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
+  - position: Full-Stack WeChat Mini Program Developer
+    company_name: Tongji University
+    company_url: 'www.tongji.edu.cn'
+    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+    date_start: 2024-08-01
+    date_end: 2024-12-31
+    summary: |
+      Responsibilities include:
+      - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
+      - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
+      - Improved convenience for school badminton players and enhanced their overall experience
 
-#   - position: Full-Stack WeChat Mini Program Developer
-#     company_name: Tongji University
-#     company_url: 'www.tongji.edu.cn'
-#     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
-#     date_start: 2024-08-01
-#     date_end: 2024-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
-#       - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
-#       - Improved convenience for school badminton players and enhanced their overall experience
+
+  # - position: Multi-Objective Optimization of GFlowNet
+  #   company_name: Tongji University
+  #   company_url: 'https://www.tongji.edu.cn'
+  #   company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+  #   date_start: 2025-02-01
+  #   date_end: 2025-12-31
+  #   summary: |
+  #     - Conducting research on extending the original GFlowNet framework from single-objective to multi-objective optimization, integrating objectives such as reward, cost, and diversity
+  #     - Designed a new objective formulation incorporating additional evaluation metrics, and applied evolutionary game theory concepts to model the trade-offs and dynamic policy updates
+  #     - Implemented and validated the extended model on molecular datasets, demonstrating improved sample cost and reward performance over the original baseline
+
+  # - position: Multi-Agent Spatio-temporal Coordination Research Assitant
+  #   company_name: Tongji University
+  #   company_url: 'https://www.tongji.edu.cn'
+  #   company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+  #   date_start: 2025-02-01
+  #   date_end: 2025-12-31
+  #   summary: |
+  #     - Conducting research on multi-agent spatiotemporal coordination problems in the context of embodied intelligence, focusing on collaborative perception, task planning, and motion synchronization
+  #     -  Exploring strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction
+  #     - The project also aims to enhance the generalization capability of embodied agents across diverse domestic scenarios(such as autonomous driving)
+  #   button:
+  #     text: 'Competition Certificate'
+  #     url: 'https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf'
 
 
 # Skills
