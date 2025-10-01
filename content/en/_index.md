@@ -40,20 +40,21 @@ sections:
         folders: 
           - activities
 
+  # - block: resume-experience
+  #   id: experience
+  #   content:
+  #     title: Working Experience
+  #     username: admin
+  #   design:
+  #     # Hugo date format
+  #     date_format: 'January 2006'
+  #     # Education or Experience section first?
+  #     is_education_first: True
+
   - block: resume-experience
     id: experience
     content:
-      title: Working Experience
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: True
-
-  - block: resume-experience
-    content:
-      title: "Research Experience"
+      title: "Working Experience"
       items:
         - title: "Senior Developer"
           company: "Tech Company"

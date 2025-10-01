@@ -48,63 +48,63 @@ interests:
   - Artificial Intelligence
   - Data Science
 
-education:
-  - area: Computer Science Undergraduate
-    institution: Tongji University Shanghai, China
-    date_start: 2022-09-01
-    date_end: 2026-07-01
-    summary: |
-      At Tongji University, I am pursuing a Bachelor's degree in Computer Science and Technology. My coursework includes Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating
-      Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
-    button:
-      text: 'Scholarship Certification'
-      url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
+# education:
+#   - area: Computer Science Undergraduate
+#     institution: Tongji University Shanghai, China
+#     date_start: 2022-09-01
+#     date_end: 2026-07-01
+#     summary: |
+#       At Tongji University, I am pursuing a Bachelor's degree in Computer Science and Technology. My coursework includes Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating
+#       Systems etc. Serving as Class Monitor for the 2022 cohort, I have honed leadership skills while excelling in academics and technical expertise.
+#     button:
+#       text: 'Scholarship Certification'
+#       url: 'https://jimmyhoulala.github.io/uploads/scholarship.pdf'
 
-  - area: Dept of Computer Science Exchange Student
-    institution: National University of Singapore, Singapore
-    date_start: 2025-08-04
-    date_end: 2025-12-15
-    summary: |
-      To participate in an exchange program at the National University of Singapore during the Fall semester of 2025–2026.
-      Doing some coursework such as Software Testing CS4218 and research on AI4Sci in NUS Blue Whale Lab.
-    button:
-      text: 'Lab Homepage'
-      url: 'https://bluewhale.yataobian.com/'
+#   - area: Dept of Computer Science Exchange Student
+#     institution: National University of Singapore, Singapore
+#     date_start: 2025-08-04
+#     date_end: 2025-12-15
+#     summary: |
+#       To participate in an exchange program at the National University of Singapore during the Fall semester of 2025–2026.
+#       Doing some coursework such as Software Testing CS4218 and research on AI4Sci in NUS Blue Whale Lab.
+#     button:
+#       text: 'Lab Homepage'
+#       url: 'https://bluewhale.yataobian.com/'
   
-  - area: High School
-    institution: Shanghai Yan'An High School
-    date_start: 2019-09-01
-    date_end: 2022-07-01
-    summary: |
-      At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
-    button:
-      text: 'Project Report'
-      url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
+#   - area: High School
+#     institution: Shanghai Yan'An High School
+#     date_start: 2019-09-01
+#     date_end: 2022-07-01
+#     summary: |
+#       At Shanghai Yan'an High School, I excelled academically while actively participating in extracurricular activities. I was a member of the school basketball team and served as the president of the Environmental Club, leading a project on water quality that won first prize in the Shanghai Youth Science and Technology Innovation Competition. Additionally, I was the class monitor, where I honed my leadership and organizational skills. These experiences allowed me to achieve a well-rounded development in academics, sports, and community engagement, laying a solid foundation for my future endeavors.
+#     button:
+#       text: 'Project Report'
+#       url: 'https://jimmyhoulala.github.io/uploads/Project_Report.pdf'
 
-work:
-  - position: FinTech Intern
-    company_name: Hundsun Technologies Inc.
-    company_url: 'https://www.hundsun.com'
-    company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
-    date_start: 2024-07-01
-    date_end: 2024-08-31
-    summary: |2-
-      Responsibilities include:
-      - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
-      - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
-      - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
+# work:
+#   - position: FinTech Intern
+#     company_name: Hundsun Technologies Inc.
+#     company_url: 'https://www.hundsun.com'
+#     company_logo: 'https://jimmyhoulala.github.io/uploads/hundson.png'
+#     date_start: 2024-07-01
+#     date_end: 2024-08-31
+#     summary: |2-
+#       Responsibilities include:
+#       - Led a team of 6 members as product manager to design and develop a conceptual fund trading system
+#       - Gained hands-on experience in financial technology, including subscription, redemption, and clearing processes
+#       - Contributed to full-stack development using Vue.js for the front-end, Spring Boot for the back-end, and MySQL for database management
 
-  - position: Full-Stack WeChat Mini Program Developer
-    company_name: Tongji University
-    company_url: 'www.tongji.edu.cn'
-    company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
-    date_start: 2024-08-01
-    date_end: 2024-12-31
-    summary: |
-      Responsibilities include:
-      - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
-      - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
-      - Improved convenience for school badminton players and enhanced their overall experience
+#   - position: Full-Stack WeChat Mini Program Developer
+#     company_name: Tongji University
+#     company_url: 'www.tongji.edu.cn'
+#     company_logo: 'https://jimmyhoulala.github.io/uploads/tongji.jpg'
+#     date_start: 2024-08-01
+#     date_end: 2024-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for badminton players
+#       - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
+#       - Improved convenience for school badminton players and enhanced their overall experience
 
 
   # - position: Multi-Objective Optimization of GFlowNet
