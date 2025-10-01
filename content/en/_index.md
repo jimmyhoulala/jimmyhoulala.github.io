@@ -50,25 +50,24 @@ sections:
       # Education or Experience section first?
       is_education_first: True
 
-
-  - block: cta-image-paragraph
+  - block: markdown
     content:
-      items:
-        -
-          name: "First Item"
-          description: "Description for first item"
-        -
-          name: "Second Item"
-          description: "Description for second item"
+      title: "About This Section"
+      subtitle: "More details below"
+      text: |
+        ## Welcome
+        
+        This is **markdown content** that you can edit.
+        
+        - Create lists
+        - Add links
+        - Format text
+        
+        [Learn more](https://example.com)
     design:
+      columns: "1"
       background:
-        color: ""
-        # gradient_start: "#4f46e5"
-        # gradient_end: "#7c3aed"
-        # text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1"
+        color: "white"
 
   - block: collection
     id: projects
