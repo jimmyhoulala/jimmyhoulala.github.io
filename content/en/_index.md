@@ -56,7 +56,7 @@ sections:
     content:
       title: "Research Experience"
       text: |
-        # Multi-Objective Optimization of GFlowNet  
+        #### Multi-Objective Optimization of GFlowNet  
         **Tongji University**  
         *Feb 2025 – Dec 2025*  
         - Extended the original GFlowNet framework from single-objective to multi-objective optimization, integrating reward, cost, and diversity objectives  
@@ -65,13 +65,21 @@ sections:
 
         ---
 
-        # Multi-Agent Spatio-temporal Coordination (Research Assistant)  
+        #### Multi-Agent Spatio-temporal Coordination (Research Assistant)  
         **Tongji University**  
         *Feb 2025 – Dec 2025*  
         - Conducted research on multi-agent spatiotemporal coordination in embodied intelligence, with focus on collaborative perception, task planning, and motion synchronization  
         - Explored strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction  
         - Enhanced the generalization capability of embodied agents across diverse domestic scenarios (e.g., autonomous driving)  
         - [📄 Competition Certificate](https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf)  
+
+        ---
+        #### Energy-Based Models (EBM) Research  
+        **Blue Whale Lab, National University of Singapore (NUS)**  
+        *Aug 2025 – Present*  
+        - Learn about Energy-Based Models (EBMs) as a principled framework for generative modeling and representation learning  
+        - Investigating connections between EBMs, score-based generative models, and flow matching methods to improve stability and training efficiency
+        - Exploring practical applications of EBMs in molecular design and scientific discovery, aligning with Blue Whale Lab’s mission of advancing AI through science  
     design:
       columns: "1"
 
