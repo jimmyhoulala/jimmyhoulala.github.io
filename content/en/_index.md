@@ -51,6 +51,22 @@ sections:
       # Education or Experience section first?
       is_education_first: True
 
+  - block: markdown
+    content:
+      title: "Research Experience"
+      subtitle: "More details below"
+      text: |
+        ## Welcome
+        
+        This is **markdown content** that you can edit.
+        
+        - Create lists
+        - Add links
+        - Format text
+        
+        [Learn more](https://example.com)
+    design:
+      columns: "1"
 
 
   - block: collection
