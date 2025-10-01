@@ -56,15 +56,24 @@ sections:
       title: "Research Experience"
       subtitle: "More details below"
       text: |
-        ## Welcome
-        
-        This is **markdown content** that you can edit.
-        
-        - Create lists
-        - Add links
-        - Format text
-        
-        [Learn more](https://example.com)
+        ## Research Experience
+
+        ### Multi-Objective Optimization of GFlowNet  
+        **Tongji University**  
+        *Feb 2025 – Dec 2025*  
+        - Extended the original GFlowNet framework from single-objective to multi-objective optimization, integrating reward, cost, and diversity objectives  
+        - Designed a new objective formulation with additional evaluation metrics, applying concepts from evolutionary game theory to model trade-offs and dynamic policy updates  
+        - Implemented and validated the extended model on molecular datasets, demonstrating improved sample cost and reward performance over the baseline  
+
+        ---
+
+        ### Multi-Agent Spatio-temporal Coordination (Research Assistant)  
+        **Tongji University**  
+        *Feb 2025 – Dec 2025*  
+        - Conducted research on multi-agent spatiotemporal coordination in embodied intelligence, with focus on collaborative perception, task planning, and motion synchronization  
+        - Explored strategies for communication and policy learning among agents to enable robust cooperation for perception and prediction  
+        - Enhanced the generalization capability of embodied agents across diverse domestic scenarios (e.g., autonomous driving)  
+        - [📄 Competition Certificate](https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf)  
     design:
       columns: "1"
 
