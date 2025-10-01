@@ -52,6 +52,7 @@ sections:
 
 
   - block: resume-experience
+    id: experience
     content:
       title: "Experience"
       items:
