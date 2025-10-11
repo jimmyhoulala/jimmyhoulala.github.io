@@ -106,10 +106,10 @@ work:
       - Implemented key features such as team formation requests, court exchanging, and a chat module for user interaction
       - Improved convenience for school badminton players and enhanced their overall experience
   
-  - position: Participant, "Large Model + X Summer Camp"
+  - position: "Large Model + X Summer Camp"
     company_name: Heywhale Technology Co., Ltd.
     company_url: 'https://www.heywhale.com'
-    date_start: 2025-08-01
+    date_start: 2025-07-01
     date_end: 2025-08-31
     summary: |
       Responsibilities and achievements include:
