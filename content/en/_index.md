@@ -74,12 +74,14 @@ sections:
         - [📄 Competition Certificate](https://jimmyhoulala.github.io/uploads/embodied_intelligence.pdf)  
 
         ---
-        ### Energy-Based Models (EBM) Research  
-        **Blue Whale Lab, National University of Singapore (NUS)**  
-        *Aug 2025 – Present*  
-        - Learn about Energy-Based Models (EBMs) as a principled framework for generative modeling and representation learning  
-        - Investigating connections between EBMs, score-based generative models, and flow matching methods to improve stability and training efficiency
-        - Exploring practical applications of EBMs in molecular design and scientific discovery, aligning with Blue Whale Lab’s mission of advancing AI through science  
+        ### Cross-View Visual Place Recognition with AlphaEarth  
+        **National University of Singapore, Tongji University**  
+        *Oct 2025 – Present*  
+        - Developing a cross-view visual place recognition framework that leverages DeepMind’s AlphaEarth, a global 10m-resolution multimodal satellite embedding model.
+        - Designing a decoder network to perform place recognition directly in the AlphaEarth feature space, enabling robust location retrieval under large viewpoint and appearance changes.
+        - Building an alignment encoder that maps ground-level optical images into the AlphaEarth latent space, supporting cross-view matching between ground imagery and satellite representations.
+        - Investigating the spatial consistency and discriminability of AlphaEarth embeddings, and exploring whether geographic coordinates can be regressed from satellite feature vectors.
+        - Evaluating model robustness across diverse regions and viewpoints, providing insights for global-scale geo-localization and multi-view mapping applications.
     design:
       columns: "1"
 
