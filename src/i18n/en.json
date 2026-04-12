@@ -1,0 +1,276 @@
+{
+  "nav": {
+    "home": "Home",
+    "siteTitle": "Jimmy Hou",
+    "bio": "Bio",
+    "activities": "Recent Activities",
+    "education": "Education",
+    "workExperience": "Experience",
+    "research": "Research",
+    "projects": "Projects",
+    "publications": "Publications & Blogs",
+    "awards": "Awards",
+    "languages": "Languages"
+  },
+  "navigationHub": {
+    "title": "Navigation",
+    "educationBlurb": "Georgia Tech MSCS (incoming), Tongji University CS undergraduate, and NUS exchange semester—coursework, GPA, and academic leadership.",
+    "workExperienceBlurb": "Data development at Dun & Bradstreet, computer vision at Carl Zeiss, and FinTech product management at Hundsun Technologies.",
+    "researchBlurb": "Cross-view visual place recognition leveraging DeepMind's AlphaEarth earth representation model for global-scale geo-localization.",
+    "projectsBlurb": "Automated testing frameworks, RAG-based AI debate systems, WeChat mini programs, and computer vision calibration pipelines.",
+    "publicationsBlurb": "Academic publications and blog posts — coming soon as research progresses.",
+    "awardsBlurb": "University scholarships, FinTech certifications, innovation competitions, and science fairs—with downloadable certificates.",
+    "languagesBlurb": "English (IELTS 7.5) and Chinese proficiency, coursework abroad, and the language mix I use day to day."
+  },
+  "hero": {
+    "name": "Jimmy Hou",
+    "nameChinese": "侯青山",
+    "role": "Incoming MSCS Student",
+    "org": "Georgia Institute of Technology",
+    "downloadCV": "Download CV",
+    "cvUrl": "/uploads/resume_english.pdf",
+    "about": "Welcome to my personal website! I'm Qingshan Hou, a Computer Science and Technology graduate from Tongji University and an incoming Master's student at Georgia Institute of Technology. I completed an exchange semester at the National University of Singapore. I have a solid foundation in computer science with strong expertise in artificial intelligence, computer vision, data analysis, and software engineering, supported by hands-on internship experience at companies like Dun & Bradstreet and Carl Zeiss. As a passionate leader, I've led diverse teams to success. Outside of academics, I'm a former President of the Campus Basketball Association, a certified National Level-3 basketball referee, and a music enthusiast who leads a band and sings a cappella. Let's connect and explore the tech world together!",
+    "email": "hqsh200459@gmail.com"
+  },
+  "interests": {
+    "title": "Interests",
+    "items": ["Software Engineering", "Artificial Intelligence", "Computer Vision"]
+  },
+  "activities": {
+    "title": "Recent Activities",
+    "slides": [
+      { "image": "/uploads/event11.jpg", "caption": "Exchange life in NUS" },
+      { "image": "/uploads/event1.jpg", "caption": "Welcome Party 2024 of the School of Computer Science, Tongji University" },
+      { "image": "/uploads/event2.jpg", "caption": "Mercedes-Benz 2025 Shanghai International Auto Show Youth Talent Day" },
+      { "image": "/uploads/event3.jpg", "caption": "Performing a cappella at the Earth Hour event" }
+    ]
+  },
+  "experience": {
+    "title": "Education & Experience",
+    "educationTitle": "Education",
+    "workTitle": "Work Experience",
+    "education": [
+      {
+        "area": "MSCS Computer Science — Master's Degree",
+        "institution": "Georgia Institute of Technology, Atlanta, USA",
+        "logo": "/uploads/gatech.png",
+        "dateStart": "Sep 2026",
+        "dateEnd": "Dec 2027",
+        "summary": "Offer received; expected enrollment in Fall 2026."
+      },
+      {
+        "area": "Computer Science and Technology — Bachelor's Degree",
+        "institution": "Tongji University, Shanghai, China",
+        "logo": "/uploads/tongji.jpg",
+        "dateStart": "Sep 2022",
+        "dateEnd": "Jun 2026",
+        "summary": "GPA: 4.46/5.0 | 89.57/100.0 | 3.88/4.0 (WES Certified). Core Courses: Advanced Programming, Software Engineering, Artificial Intelligence, Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, Computer Organization, Computer Networks, etc. Class Monitor, Class 2, Computer Science and Technology, Cohort 2022.",
+        "button": { "text": "Scholarship Certification", "url": "/uploads/scholarship.pdf" }
+      },
+      {
+        "area": "Department of Computer Science — Exchange Student",
+        "institution": "National University of Singapore, Singapore",
+        "logo": "/uploads/nus.png",
+        "dateStart": "Aug 2025",
+        "dateEnd": "Dec 2025",
+        "summary": "Achieved outstanding results in CS4218 Software Testing, systematically studying automated testing theory and practice. Conducted AI4Sci-related research at the Blue Whale Lab.",
+        "button": { "text": "Lab Homepage", "url": "https://bluewhale.yataobian.com/" }
+      }
+    ],
+    "work": [
+      {
+        "position": "Data Engineering Intern",
+        "company": "Dun & Bradstreet (Shanghai)",
+        "companyUrl": "https://www.dnb.com",
+        "logo": "/uploads/dnb.png",
+        "dateStart": "Mar 2026",
+        "dateEnd": "Present",
+        "summary": [
+          "Led the end-to-end development of a metadata dashboard project, participating in the full lifecycle from requirements analysis, architecture design to deployment. Integrated and analyzed 30+ metadata tables, presenting dozens of key metrics and charts, enhancing data visualization efficiency and business decision-making support.",
+          "Performed daily data development tasks on the Alibaba Cloud DataWorks platform, proficiently completing core operations such as data integration and SQL queries, while deepening understanding of enterprise-level big data workflows and cloud architecture.",
+          "Participated in enterprise data governance, responsible for verifying the reconciliation of key financial statements including balance sheets and cash flow statements in the database, identifying data anomalies, and ensuring data accuracy."
+        ]
+      },
+      {
+        "position": "Computer Vision Algorithm & Data Analysis Intern",
+        "company": "Carl Zeiss (Shanghai) Management Co., Ltd.",
+        "companyUrl": "https://www.zeiss.com",
+        "logo": "/uploads/zeiss.png",
+        "dateStart": "Dec 2025",
+        "dateEnd": "Mar 2026",
+        "summary": [
+          "Designed and deployed a multi-model computer vision architecture with a full-pipeline implementation for battery quality inspection—deploying 3 models for tab folding defect recognition and 3 models for copper-iron welding defect identification.",
+          "Managed the entire workflow of model training, hyperparameter tuning, inference deployment, and performance evaluation. Innovatively combined confidence scores and bounding box overlap ratios to fuse detection results from 6 models, iteratively calibrating thresholds and key parameters.",
+          "Developed custom data processing and analysis scripts to perform in-depth mining and comparative analysis of model outputs and detection data, systematically evaluating multi-model collaboration effectiveness."
+        ]
+      },
+      {
+        "position": "FinTech Intern",
+        "company": "Hundsun Technologies Inc.",
+        "companyUrl": "https://www.hundsun.com",
+        "logo": "/uploads/hundson.png",
+        "dateStart": "Jul 2024",
+        "dateEnd": "Aug 2024",
+        "summary": [
+          "Served as Product Manager and Front-End Developer, leading a 6-member team to design and develop a conceptual fund trading system.",
+          "Gained hands-on experience with core fund processes including subscription, redemption, and settlement, building the project with Vue, Spring Boot, and MySQL.",
+          "Awarded Hundsun's \"Junior FinTech Engineer\" Certification and \"Best Quality Award.\""
+        ]
+      }
+    ]
+  },
+  "research": {
+    "title": "Research Experience",
+    "items": [
+      {
+        "title": "AlphaEarth & Cross-View Visual Place Recognition",
+        "institution": "Tongji University",
+        "dateStart": "Oct 2025",
+        "dateEnd": "Present",
+        "bullets": [
+          "Conducting cross-view geo-localization research leveraging DeepMind's latest AlphaEarth earth representation model.",
+          "Designed and implemented a decoder network utilizing AlphaEarth features for place recognition, enabling global-scale candidate location screening and matching.",
+          "Built a cross-view alignment encoder from ground-level optical images to the AlphaEarth representation space, achieving unified feature representation across ground and satellite perspectives.",
+          "Research outcomes provide novel technical insights for multi-view map matching, global-scale localization, and the application of earth foundation models in geospatial AI."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Here are some projects that I have worked on over the years.",
+    "items": [
+      {
+        "id": "VirtualVault",
+        "title": "Virtual Vault (NUS CS4218)",
+        "date": "Aug 2025 — Dec 2025",
+        "link": "https://github.com/cs4218/cs4218-2510-ecom-project-ecom",
+        "tags": ["Automated Testing", "Jest", "Playwright", "JMeter"],
+        "description": "Built a comprehensive multi-level automated testing framework for a MERN-based e-commerce platform. Authored unit & integration tests with Jest Mock, developed end-to-end Playwright scripts covering 80%+ core business flows including user authentication, advanced search, and shopping cart checkout, and designed high-concurrency JMeter load tests to identify database query performance bottlenecks."
+      },
+      {
+        "id": "AIDebate",
+        "title": "AI Multi-Agent Debate System",
+        "date": "Feb 2025 — Jun 2025",
+        "link": "https://github.com/jimmyhoulala/AI-Debate",
+        "tags": ["Full-Stack", "RAG Architecture", "React", "Node.js", "OpenAI API"],
+        "description": "Designed and implemented a RAG-based multi-agent AI debate platform with 5 distinctive agent roles and a complete debate workflow (Opening Arguments — Debate — Summary — Moderator Summary). Back-end built with Node.js + Express, front-end with React + Vite, data stored in MySQL, and integrated Python scripts calling the OpenAI API for agent speech generation."
+      },
+      {
+        "id": "ExCourt",
+        "title": "ExCourt — Badminton Court Exchange System",
+        "date": "Aug 2024 — Jun 2025",
+        "link": "https://github.com/ShanghaineseImpact/ExCourt",
+        "tags": ["WeChat Mini Program", "Software Engineering", "Full-Stack"],
+        "description": "Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for campus badminton enthusiasts. Implemented core functional modules including team-up requests, court exchange, and user interactive chat, improving convenience for on-campus badminton players."
+      },
+      {
+        "id": "Car",
+        "title": "Online Calibration System Based on Intelligent Vehicle",
+        "date": "Apr 2024 — Jun 2024",
+        "link": "/uploads/tjcx.png",
+        "tags": ["Computer Vision", "YOLO V9", "Internet of Vehicles"],
+        "description": "Developed an online calibration system using an intelligent vehicle, replacing traditional static object calibration methods to improve efficiency and reduce labor costs. Applied YOLO v9 for object detection and visual calibration, building a foundational intelligent vehicle model with autonomous motion and calibration capabilities. Awarded Silver Prize at the 2024 China International College Students' Innovation Competition (Tongji University Campus Round)."
+      },
+      {
+        "id": "ChineseSeg",
+        "title": "BiLSTM-CRF Chinese Word Segmentation System",
+        "date": "Feb 2025",
+        "link": "https://github.com/jimmyhoulala/bilstm-crf-chinese-word-segmentation",
+        "tags": ["Chinese word segmentation", "Machine Learning", "BiLSTM-CRF"],
+        "description": "This project implements a Chinese Word Segmentation (CWS) system based on a BiLSTM-CRF architecture, enhanced with several advanced features such as pretrained character embeddings, character-type embeddings, bigram embeddings, multi-corpus training, a customized CRF decoder with illegal transition constraints, loss visualization, and evaluation utilities.",
+        "enOnly": true
+      },
+      {
+        "id": "Fintech",
+        "title": "Conceptual Fund Trading System",
+        "date": "Aug 2024",
+        "link": "https://github.com/jimmyhoulala/Simple_Fund_Trading_System",
+        "tags": ["FinTech", "Web Develop", "Fund"],
+        "description": "Conceptual Fund Management Sales System is a system designed for investors to perform account opening, trading, and other operations at the fund company's counter. The system includes modules for product management, account opening, subscription, redemption, settlement, and business inquiries."
+      },
+      {
+        "id": "LR",
+        "title": "Modeling Water Quality using Regression",
+        "date": "Apr 2020",
+        "link": "/uploads/Project_Report.pdf",
+        "tags": ["Linear Regression", "Environmental Protection", "Water Quality"],
+        "description": "Conducted field research in Anji County, Huzhou, collecting water quality data from 7 locations along the upstream of Huangpu River. Performed data analysis using statistical regression models to predict and assess water quality trends."
+      }
+    ]
+  },
+  "publications": {
+    "title": "Publications & Blogs",
+    "publicationsTitle": "Publications",
+    "blogsTitle": "Blog Posts",
+    "emptyMessage": "Publications and blog posts coming soon — stay tuned!",
+    "items": [],
+    "blogs": []
+  },
+  "awards": {
+    "title": "Awards",
+    "items": [
+      {
+        "title": "Tongji University Undergraduate Excellence Scholarship",
+        "date": "Nov 2023",
+        "awarder": "Tongji University",
+        "certificateUrl": "/uploads/scholarship.pdf",
+        "summary": []
+      },
+      {
+        "title": "Hundsun Technologies \"Junior FinTech Engineer\" Certification",
+        "date": "Aug 2024",
+        "awarder": "Hundsun Technologies Inc.",
+        "url": "https://www.hundsun.com/",
+        "certificateUrl": "/uploads/hundsun_certificate.pdf",
+        "summary": []
+      },
+      {
+        "title": "Corpus Data Intelligence Creative Competition — Embodied Intelligence Track",
+        "date": "Jul 2025",
+        "awarder": "Organizing Committee",
+        "certificateUrl": "/uploads/embodied_intelligence.pdf",
+        "summary": []
+      },
+      {
+        "title": "35th Shanghai Youth Science and Technology Innovation Competition",
+        "date": "Apr 2020",
+        "awarder": "Shanghai Science Association for Young Talent",
+        "url": "https://ssayt.shssp.org/",
+        "certificateUrl": "/uploads/shssp.jpg",
+        "summary": []
+      },
+      {
+        "title": "Heywhale \"LLM+X General Summer Camp\" — AI & LLM Development",
+        "date": "Aug 2025",
+        "awarder": "Heywhale Technology Co., Ltd.",
+        "certificateUrl": "/uploads/hejing.pdf",
+        "summary": []
+      },
+      {
+        "title": "China International College Students' Innovation Competition (Campus Round)",
+        "date": "Jun 2024",
+        "awarder": "Tongji University",
+        "certificateUrl": "/uploads/tjcx.png",
+        "summary": []
+      },
+      {
+        "title": "President, Basketball Association, Jiading Campus",
+        "date": "Jun 2024 — Jun 2025",
+        "awarder": "Tongji University",
+        "summary": []
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "items": [
+      { "name": "English", "percent": 95 },
+      { "name": "Chinese", "percent": 100 }
+    ]
+  },
+  "viewCertificate": "View Certificate",
+  "footer": {
+    "copyright": "Qingshan Hou. All rights reserved."
+  }
+}
