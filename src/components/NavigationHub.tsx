@@ -24,7 +24,7 @@ export default function NavigationHub() {
 
   const right: ReadonlyArray<{ to: string; titleKey: string; blurbKey: string; isAnchor?: boolean }> = [
     { to: "/projects", titleKey: "nav.projects", blurbKey: "navigationHub.projectsBlurb" },
-    { to: "#publications", titleKey: "nav.publications", blurbKey: "navigationHub.publicationsBlurb", isAnchor: true },
+    { to: "/publications", titleKey: "nav.publications", blurbKey: "navigationHub.publicationsBlurb" },
     { to: "#awards", titleKey: "nav.awards", blurbKey: "navigationHub.awardsBlurb", isAnchor: true },
   ];
 

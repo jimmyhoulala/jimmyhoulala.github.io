@@ -10,7 +10,7 @@ const routes: ReadonlyArray<{ path: string; key: string; isAnchor?: boolean }> =
   { path: "/experience", key: "workExperience" },
   { path: "/research", key: "research" },
   { path: "/projects", key: "projects" },
-  { path: "/#publications", key: "publications", isAnchor: true },
+  { path: "/publications", key: "publications" },
 ];
 
 function navClassName({ isActive }: { isActive: boolean }): string {
