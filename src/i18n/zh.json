@@ -153,6 +153,7 @@
         "title": "易场地 — 羽毛球场地交换系统",
         "date": "2024年8月 — 2025年6月",
         "link": "https://github.com/ShanghaineseImpact/ExCourt",
+        "image": "/uploads/project-excourt.png",
         "tags": ["微信小程序", "软件工程", "全栈开发"],
         "description": "设计并开发了一款微信小程序，用于帮助校园羽毛球爱好者进行场地交换与组队等。实现了核心功能模块，包括组队申请、场地交换与用户互动聊天功能等。提升了校内羽毛球爱好者的使用便利性，优化了他们的活动组织与体验。"
       },
@@ -161,14 +162,25 @@
         "title": "基于智能车的在线标定系统",
         "date": "2024年4月 — 2024年6月",
         "link": "/uploads/tjcx.png",
+        "image": "/uploads/project-car.png",
         "tags": ["计算机视觉", "YOLO V9", "车联网"],
         "description": "利用智能小车开发在线标定系统，替代传统静态物体标定方法，提升效率并降低人工成本。应用 YOLO v9 进行目标识别与视觉标定，构建基础智能车模型，实现自动运动与标定功能。荣获2024年中国国际大学生创新大赛（同济大学校内赛）银奖。"
+      },
+      {
+        "id": "ChineseSeg",
+        "title": "BiLSTM-CRF 中文分词系统",
+        "date": "2025年2月",
+        "link": "https://github.com/jimmyhoulala/bilstm-crf-chinese-word-segmentation",
+        "image": "/uploads/project-chineseseg.png",
+        "tags": ["中文分词", "机器学习", "BiLSTM-CRF"],
+        "description": "基于 BiLSTM-CRF 架构实现中文分词系统，集成预训练字向量、字符类型嵌入、Bigram 嵌入、多语料联合训练、带非法转移约束的自定义 CRF 解码器、损失可视化及评估工具等多项增强特性。"
       },
       {
         "id": "Fintech",
         "title": "概念性基金交易系统",
         "date": "2024年8月",
         "link": "https://github.com/jimmyhoulala/Simple_Fund_Trading_System",
+        "image": "/uploads/project-fintech.png",
         "tags": ["金融科技", "网页前后端开发", "基金交易"],
         "description": "概念性基金理财销售系统是一款专为投资者在基金公司柜台办理开户、交易等功能的系统。该系统包括产品管理、开户、申购、赎回、清算和业务查询等功能模块。"
       },
@@ -177,6 +189,7 @@
         "title": "黄浦江上游水质变化统计回归模型",
         "date": "2020年4月",
         "link": "/uploads/Project_Report.pdf",
+        "image": "/uploads/project-river.png",
         "tags": ["线性回归", "环境保护", "水质"],
         "description": "在湖州安吉县进行实地调研，收集了黄浦江上游7个河流断面的水质数据。使用统计回归模型对数据进行分析，预测和评估水质趋势。"
       }

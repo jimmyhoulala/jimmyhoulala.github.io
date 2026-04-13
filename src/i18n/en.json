@@ -153,6 +153,7 @@
         "title": "ExCourt — Badminton Court Exchange System",
         "date": "Aug 2024 — Jun 2025",
         "link": "https://github.com/ShanghaineseImpact/ExCourt",
+        "image": "/uploads/project-excourt.png",
         "tags": ["WeChat Mini Program", "Software Engineering", "Full-Stack"],
         "description": "Designed and developed a WeChat Mini Program to facilitate court exchange and team formation for campus badminton enthusiasts. Implemented core functional modules including team-up requests, court exchange, and user interactive chat, improving convenience for on-campus badminton players."
       },
@@ -161,6 +162,7 @@
         "title": "Online Calibration System Based on Intelligent Vehicle",
         "date": "Apr 2024 — Jun 2024",
         "link": "/uploads/tjcx.png",
+        "image": "/uploads/project-car.png",
         "tags": ["Computer Vision", "YOLO V9", "Internet of Vehicles"],
         "description": "Developed an online calibration system using an intelligent vehicle, replacing traditional static object calibration methods to improve efficiency and reduce labor costs. Applied YOLO v9 for object detection and visual calibration, building a foundational intelligent vehicle model with autonomous motion and calibration capabilities. Awarded Silver Prize at the 2024 China International College Students' Innovation Competition (Tongji University Campus Round)."
       },
@@ -169,15 +171,16 @@
         "title": "BiLSTM-CRF Chinese Word Segmentation System",
         "date": "Feb 2025",
         "link": "https://github.com/jimmyhoulala/bilstm-crf-chinese-word-segmentation",
+        "image": "/uploads/project-chineseseg.png",
         "tags": ["Chinese word segmentation", "Machine Learning", "BiLSTM-CRF"],
-        "description": "This project implements a Chinese Word Segmentation (CWS) system based on a BiLSTM-CRF architecture, enhanced with several advanced features such as pretrained character embeddings, character-type embeddings, bigram embeddings, multi-corpus training, a customized CRF decoder with illegal transition constraints, loss visualization, and evaluation utilities.",
-        "enOnly": true
+        "description": "This project implements a Chinese Word Segmentation (CWS) system based on a BiLSTM-CRF architecture, enhanced with several advanced features such as pretrained character embeddings, character-type embeddings, bigram embeddings, multi-corpus training, a customized CRF decoder with illegal transition constraints, loss visualization, and evaluation utilities."
       },
       {
         "id": "Fintech",
         "title": "Conceptual Fund Trading System",
         "date": "Aug 2024",
         "link": "https://github.com/jimmyhoulala/Simple_Fund_Trading_System",
+        "image": "/uploads/project-fintech.png",
         "tags": ["FinTech", "Web Develop", "Fund"],
         "description": "Conceptual Fund Management Sales System is a system designed for investors to perform account opening, trading, and other operations at the fund company's counter. The system includes modules for product management, account opening, subscription, redemption, settlement, and business inquiries."
       },
@@ -186,6 +189,7 @@
         "title": "Modeling Water Quality using Regression",
         "date": "Apr 2020",
         "link": "/uploads/Project_Report.pdf",
+        "image": "/uploads/project-river.png",
         "tags": ["Linear Regression", "Environmental Protection", "Water Quality"],
         "description": "Conducted field research in Anji County, Huzhou, collecting water quality data from 7 locations along the upstream of Huangpu River. Performed data analysis using statistical regression models to predict and assess water quality trends."
       }
